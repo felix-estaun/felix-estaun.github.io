@@ -6,8 +6,15 @@ body {
 
 .PSW {
     position: relative;
-    font-size: 40px;
+    padding-top: 300px;
     text-align: center;
+    font-size: 60px;
     width: 100%;
     height: 100%;
 }
+
+.login_fields {
+    text-align: center;
+    width: 20%;
+    height: 40px;
+  }
